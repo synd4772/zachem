@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\alexm\\.nuget\\packages\\": {},
+    "D:\\Visual Studio IDE\\SDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\c#\\masha\\Game_Uss-master\\Game_Uss\\Game_Uss.csproj",
+      "projectName": "Game_Uss",
+      "projectPath": "C:\\Projects\\c#\\masha\\Game_Uss-master\\Game_Uss\\Game_Uss.csproj",
+      "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\c#\\masha\\Game_Uss-master\\Game_Uss\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Visual Studio IDE\\SDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

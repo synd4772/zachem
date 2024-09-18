@@ -1,0 +1,14 @@
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\bin\Debug\net6.0\Game_Uss.exe
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\bin\Debug\net6.0\Game_Uss.deps.json
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\bin\Debug\net6.0\Game_Uss.runtimeconfig.json
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\bin\Debug\net6.0\Game_Uss.dll
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\bin\Debug\net6.0\Game_Uss.pdb
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.AssemblyInfoInputs.cache
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.AssemblyInfo.cs
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.csproj.CoreCompileInputs.cache
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.dll
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\refint\Game_Uss.dll
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.pdb
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\Game_Uss.genruntimeconfig.cache
+C:\Projects\c#\masha\Game_Uss-master\Game_Uss\obj\Debug\net6.0\ref\Game_Uss.dll
